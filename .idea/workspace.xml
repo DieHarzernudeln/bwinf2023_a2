@@ -1,21 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="322fe7fd-7e1f-46ef-b4c0-d2eb82f0924d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/beispiele/beispielraetsel.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/beispiele/raetsel1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/beispiele/raetsel2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/beispiele/raetsel3.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/beispiele/raetsel4.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/beispiele/raetsel5.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bwinf2023_a2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Aufgabe2.java" afterDir="false" />
+    <list default="true" id="322fe7fd-7e1f-46ef-b4c0-d2eb82f0924d" name="Changes" comment="Test Commit">
+      <change afterPath="$PROJECT_DIR$/beispiele/test1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beispiele/test2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beispiele/test3.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Aufgabe2.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,7 +21,22 @@
   <component name="ComposerSettings">
     <execution />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Rebase.Settings">
+    <option name="NEW_BASE" value="main" />
+  </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration" interpreter_name="XAMPP PHP 8.2.4" />
@@ -35,17 +46,59 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/Admin/UserPortableApps/xampp/php/php.exe",
-    "settings.editor.selected.configurable": "preferences.general",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Admin/UserPortableApps/xampp/php/php.exe&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.github.copilot.settings.ApplicationConfigurable&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.A2S">
+    <configuration name="A2" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="A2" />
+      <module name="bwinf2023_a2" />
+      <option name="PROGRAM_PARAMETERS" value="beispiele/raetsel1.txt" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="A22" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="A22" />
+      <module name="bwinf2023_a2" />
+      <option name="PROGRAM_PARAMETERS" value="beispiele/raetsel2.txt" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="A2S" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Aufgabe2" />
+      <module name="bwinf2023_a2" />
+      <option name="PROGRAM_PARAMETERS" value="beispiele/test3.txt" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Aufgabe2" />
+      <item itemvalue="Application.A2" />
+      <item itemvalue="Application.A22" />
+      <item itemvalue="Application.A2S" />
+    </list>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -54,11 +107,72 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1695162224423</updated>
-      <workItem from="1695162226153" duration="147000" />
+      <workItem from="1695162226153" duration="853000" />
+      <workItem from="1695212309340" duration="1188000" />
+      <workItem from="1695239033082" duration="4776000" />
+      <workItem from="1695650226768" duration="131000" />
+      <workItem from="1695650379892" duration="3034000" />
+      <workItem from="1695746076418" duration="1840000" />
+      <workItem from="1697449190534" duration="2871000" />
+      <workItem from="1697521879805" duration="3672000" />
+      <workItem from="1697621595206" duration="42000" />
+      <workItem from="1697621659561" duration="1697000" />
+      <workItem from="1697741961727" duration="1129000" />
+      <workItem from="1700386602171" duration="3908000" />
+      <workItem from="1700426480305" duration="35138000" />
     </task>
+    <task id="LOCAL-00001" summary="Test Commit">
+      <created>1695162514180</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1695162514180</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Test Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Test Commit" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.ArrayIndexOutOfBoundsException" package="java.lang" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
