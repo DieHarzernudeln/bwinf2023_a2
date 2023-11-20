@@ -167,7 +167,7 @@ public class Aufgabe2 {
     //Read input from file
     private void readInput(String[] args) {
         if (args.length < 1) {
-            System.out.println("Syntax: Aufgabe3 <Pfad zur Eingabedatei>");
+            System.out.println("Syntax: Aufgabe2 <Pfad zur Eingabedatei>");
             System.exit(0);
         }
         File inputFile = new File(args[0]);

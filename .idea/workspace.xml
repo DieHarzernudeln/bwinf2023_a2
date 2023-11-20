@@ -4,14 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="322fe7fd-7e1f-46ef-b4c0-d2eb82f0924d" name="Changes" comment="Test Commit">
-      <change afterPath="$PROJECT_DIR$/beispiele/test1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/beispiele/test2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/beispiele/test3.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="322fe7fd-7e1f-46ef-b4c0-d2eb82f0924d" name="Changes" comment="Jetzt auch mit source code">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Aufgabe2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bwinf2023_a2_doku.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/bwinf2023_a2_doku.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Aufgabe2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aufgabe2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +48,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Admin/UserPortableApps/xampp/php/php.exe&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Admin/Dev/IdeaProjects/bwinf2023_a2&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -63,6 +59,9 @@
   }
 }</component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Admin\Dev\IdeaProjects\bwinf2023_a2" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="" />
     </key>
@@ -119,7 +118,8 @@
       <workItem from="1697621659561" duration="1697000" />
       <workItem from="1697741961727" duration="1129000" />
       <workItem from="1700386602171" duration="3908000" />
-      <workItem from="1700426480305" duration="35138000" />
+      <workItem from="1700426480305" duration="35622000" />
+      <workItem from="1700494017752" duration="76000" />
     </task>
     <task id="LOCAL-00001" summary="Test Commit">
       <created>1695162514180</created>
@@ -128,7 +128,21 @@
       <option name="project" value="LOCAL" />
       <updated>1695162514180</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Doku">
+      <created>1700492018238</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1700492018238</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Jetzt auch mit source code">
+      <created>1700492186709</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1700492186709</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -159,7 +173,9 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Test Commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Test Commit" />
+    <MESSAGE value="Doku" />
+    <MESSAGE value="Jetzt auch mit source code" />
+    <option name="LAST_COMMIT_MESSAGE" value="Jetzt auch mit source code" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
